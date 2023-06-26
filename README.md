@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I’m currently working on A Where's Wally App ( Photo Tagging app)<br>
+🔭 I’m currently working on [Where's Wally App ( Photo Tagging app)](https://github.com/WillAvatec/The-Great-Seek)<br>
 👯 I’m looking to collaborate on Open Source Projects<br>
 🌱 I’m currently learning Typescript and Node.js<br>
-📫 How to reach me: Gmail <avatec2312@gmail.com><br>
+📫 How to reach me: avatec2312@gmail.com<br>
 💬 Ask me all about Javascript<br>
 ⚡ Fun fact A piggy works better than a duck for debugging
 
