@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Open Source Projects<br>
-🌱 I’m currently learning Typescript and Node.js<br>
+🌱 I’m currently learning MongoDB and Express<br>
 📫 How to reach me: avatec2312@gmail.com<br>
 💬 Ask me all about Javascript<br>
 ⚡ Fun fact A piggy works better than a duck for debugging
