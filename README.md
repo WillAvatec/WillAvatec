@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a web developer passionate about crafting beautiful and user-friendly web experiences.
+Always trying to improve myself on the always changing tech world.
 
 <!--
 **WillAvatec/WillAvatec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +22,6 @@ Here are some ideas to get you started:
 # 💫 About Me:
 👯 I’m looking to collaborate on Open Source Projects<br>
 🌱 I’m currently learning MongoDB and Express<br>
-📫 How to reach me: avatec2312@gmail.com<br>
-💬 Ask me all about Javascript<br>
 ⚡ Fun fact A piggy works better than a duck for debugging
 
 
