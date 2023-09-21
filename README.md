@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a web developer passionate about crafting beautiful and user-friendly web experiences.
+I'm a web developer passionate about crafting beautiful and user-friendly web experiences.<br>
 Always trying to improve myself on the always changing tech world.
 
 <!--
