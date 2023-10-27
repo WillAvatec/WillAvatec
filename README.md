@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Open Source Projects<br>
-🌱 I’m currently learning MongoDB and Express<br>
-⚡ Fun fact A piggy works better than a duck for debugging
+🌱 I’m currently learning **REST API**<br>
+⚡ I'm a winter person. 
 
 
 # 💻 Tech Stack:
